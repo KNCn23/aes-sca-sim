@@ -1,0 +1,8 @@
+*.o
+trace-gen
+traces.bin
+plaintexts.csv
+*.png
+__pycache__/
+.venv/
+.DS_Store
